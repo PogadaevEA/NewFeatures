@@ -9,6 +9,7 @@
     <properties>
         <maven.compiler.source>16</maven.compiler.source>
         <maven.compiler.target>16</maven.compiler.target>
+        <developer.connection />
     </properties>
 
 
@@ -16,7 +17,7 @@
 
 
     <scm>
-        <developerConnection>scm:git:https://github.com/PogadaevEA/NewFeatures.git</developerConnection>
+        <developerConnection>${developer.connection}</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
