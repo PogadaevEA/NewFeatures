@@ -4,6 +4,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>NewFeatures</artifactId>
+    <packaging>pom</packaging>
     <version>1.0.10-SNAPSHOT</version>
 
     <properties>
@@ -20,6 +21,10 @@
         <developerConnection>${developer.connection}</developerConnection>
     <tag>HEAD</tag>
   </scm>
+
+    <modules>
+        <module>inner</module>
+    </modules>
 
 
 
