@@ -24,6 +24,7 @@
 
     <modules>
         <module>inner</module>
+        <module>second</module>
     </modules>
 
 
