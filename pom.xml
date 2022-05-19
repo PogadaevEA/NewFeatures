@@ -22,12 +22,5 @@
     <tag>HEAD</tag>
   </scm>
 
-    <modules>
-        <module>inner</module>
-        <module>second</module>
-    </modules>
-
-
-
 
 </project>
